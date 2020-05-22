@@ -8,7 +8,7 @@ A one-off project to make a magic-slate app based on changing input text.
 
 ## Built With
 
-* [jQuery](https://jquery.com/) - jQuery
+* [jQuery](https://jquery.com/)
 
 ## Authors
 
